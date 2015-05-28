@@ -1,4 +1,4 @@
-One of my students recently sent me this needless email message:
+One of my students recently sent me this email message:
 
 > Well, how would you do switch fall-through in Scheme? Could you
 > write a version of the case statement that does that?
